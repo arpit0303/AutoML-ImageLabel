@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ML-FaceDetect</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="error_toast">Error! Please try again.</string>
+</resources>
