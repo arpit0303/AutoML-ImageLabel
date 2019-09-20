@@ -1,3 +1,10 @@
+<!-- wp:paragraph -->
+<p>Create custom image classification models from your own training data with AutoML Vision Edge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ML Kit's base on-device image labelling API model is built for general-purpose use, and is trained to recognize around 400 categories that cover the most commonly-found concepts in photos. If you need a more specialized image labelling model, covering a narrower domain of concepts in more detail—for example, a model to distinguish between species of flowers or types of food—you can use AutoML Vision Edge to train a model with your own images and use the model you trained instead.</p>
+<!-- /wp:paragraph -->
 <!-- wp:heading {"level":3} -->
 <h3 id="train-an-image-labeling-model-with-automl-vision-edge"><strong>Train an image labelling model with AutoML</strong></h3>
 <!-- /wp:heading -->
@@ -100,3 +107,10 @@ allprojects {
 <pre class="wp-block-preformatted">keytool -list -v \
 -alias YOUR_KEY_NAME -keystore YOUR_KEYSTORE_PATH</pre>
 <!-- /wp:preformatted -->
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>References:</strong><br><a href="https://firebase.google.com/docs/ml-kit/automl-image-labeling">https://firebase.google.com/docs/ml-kit/automl-image-labeling</a><br><a href="https://firebase.google.com/docs/ml-kit/android/label-images-with-automl">https://firebase.google.com/docs/ml-kit/android/label-images-with-automl</a><br><a href="https://www.youtube.com/watch?v=QwHD36bhXZA">https://www.youtube.com/watch?v=QwHD36bhXZA</a></p>
+<!-- /wp:paragraph -->
