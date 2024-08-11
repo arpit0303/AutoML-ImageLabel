@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380331631990",
+    "firebase_url": "https://zetwerk-a5d1d.firebaseio.com",
+    "project_id": "zetwerk-a5d1d",
+    "storage_bucket": "zetwerk-a5d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380331631990:android:867a11c8aa7069db574657",
+        "android_client_info": {
+          "package_name": "com.example.ml_facedetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380331631990-hf40kv7o2jsd66jtdtee8ha93rr2pll7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Ct-39-RzlxshoUgR_yEGyc76XCuwIMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380331631990-hf40kv7o2jsd66jtdtee8ha93rr2pll7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
